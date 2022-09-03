@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+	<Cliente>
+		<Nome>Joel</Nome>
+		<Email>joelrlneto@gmail.com</Email>
+	</Cliente>
+	<Cliente>
+		<Nome>Maria</Nome>
+		<Email>maria@gmail.com</Email>
+	</Cliente>
+	<Cliente>
+		<Nome>Wesley</Nome>
+		<Email>wesley123@gmail.com</Email>
+	</Cliente>
+</ArrayOfCliente>
